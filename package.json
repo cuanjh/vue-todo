@@ -19,6 +19,9 @@
   "homepage": "https://github.com/cuanjh/vue-todo#readme",
   "dependencies": {
     "css-loader": "^0.28.7",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.20.3",
+    "url-loader": "^1.0.1",
     "vue": "^2.5.13",
     "vue-loader": "^13.6.0",
     "vue-template-compiler": "^2.5.13",
